@@ -1,6 +1,6 @@
 
   <h1 align="center">Hi <img src="./images/Hi.gif" alt="Hi" width="30px">, I'm Ankush Pine</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushpine&label=Profile%20views&color=0e75b6&style=flat" alt="ankushpine" /> </p>
   <div align="center">
     <img height="200" width="200" src="./images/Coder.gif" alt="Coder" />
   </div>
@@ -41,3 +41,11 @@
     <img src="./images/Firebase.png">
     <img src="./images/VScode.png">
   </p>
+
+<p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankushpine&show_icons=true&locale=en&layout=compact" alt="ankushpine" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankushpine&show_icons=true&locale=en" alt="ankushpine" /></p>
+
+</p>
+
