@@ -12,7 +12,7 @@
         alt="Linkedin" /></a>
     <a href="https://www.instagram.com/ankushpine/"><img align="center" src="./images/Instagram.png"
         alt="Instagram" /></a>
-    <a href=""><img align="center" src="./images/Facebook.png" alt="Facebook" /></a>
+    <a href="https://www.facebook.com/theankushpine"><img align="center" src="./images/Facebook.png" alt="Facebook" /></a>
     <a href="mailto: ankushpineofficial@gmail.com"><img align="center" src="./images/Gmail.png" alt="Gmail" /></a>
   </p>
 
