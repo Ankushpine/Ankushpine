@@ -16,6 +16,7 @@
     <a href="mailto: ankushpineofficial@gmail.com"><img align="center" src="./images/Gmail.png" alt="Gmail" /></a>
   </p>
 
+
   <p align="center">
   <em align="center">
     Dedicated and enthusiastic <b>Full Stack Developer</b> with a strong foundation in the <b>MERN</b> (MongoDB, Express.js,
@@ -25,17 +26,17 @@
   </em>
   </p>
 
-  Languages & Tools I Know...
+ ##  Languages & Tools I Know...
 
   <p align="left">
-    <code><img src="./images/HTML.png"></code>
-    <code><img src="./images/CSS.png"></code>
-    <code><img src="./images/Js.png"></code>
-    <code><img src="./images/JAVA.png"></code>
-    <code><img src="./images/React.png"></code>
-    <code><img src="./images/NodeJS.png"></code>
-    <code><img src="./images/MongoDB.png"></code>
-    <code><img src="./images/Redux.png"></code>
-    <code><img src="./images/Firebase.png"></code>
-    <code><img src="./images/VScode.png"></code>
+    <img src="./images/HTML.png">
+    <img src="./images/CSS.png">
+    <img src="./images/Js.png">
+    <img src="./images/JAVA.png">
+    <img src="./images/React.png">
+    <img src="./images/NodeJS.png">
+    <img src="./images/MongoDB.png">
+    <img src="./images/Redux.png">
+    <img src="./images/Firebase.png">
+    <img src="./images/VScode.png">
   </p>
