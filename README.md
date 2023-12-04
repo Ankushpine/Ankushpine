@@ -2,7 +2,7 @@
   <h1 align="center">Hi <img src="./images/Hi.gif" alt="Hi" width="30px">, I'm Ankush Pine</h1>
 
   <div align="center">
-    <img height="200" width="250" src="./images/Dev.gif" alt="Coder" />
+    <img height="200" width="200" src="./images/Coder.gif" alt="Coder" />
   </div>
 
   <h3 align="center">Full Stack Developer | MERN Stack</h3>
@@ -16,7 +16,7 @@
     <a href="mailto: ankushpineofficial@gmail.com"><img align="center" src="./images/Gmail.png" alt="Gmail" /></a>
   </p>
 
-
+<h3>
   <p align="center">
   <em align="center">
     Dedicated and enthusiastic <b>Full Stack Developer</b> with a strong foundation in the <b>MERN</b> (MongoDB, Express.js,
@@ -25,6 +25,7 @@
     contribute skills in problem-solving, collaboration, and continuous learning to a dynamic development team.
   </em>
   </p>
+  </h3>
 
  ##  Languages & Tools I Know...
 
