@@ -19,10 +19,9 @@
 <h3>
   <p align="center">
   <em align="center">
-    Dedicated and enthusiastic <b>Full Stack Developer</b> with a strong foundation in the <b>MERN</b> (MongoDB, Express.js,
-    React.js, Node.js) stack. Have a passion for creating dynamic and responsive web applications. Proficient in
-    front-end and back-end technologies, with a focus on delivering high-quality, user-centric solutions. Eager to
-    contribute skills in problem-solving, collaboration, and continuous learning to a dynamic development team.
+Dedicated and enthusiastic Full Stack Developer with a strong foundation in the MERN stack.
+Proficient in HTML, CSS, JavaScript, Java, React, MongoDB, Node.js, SQL and Express.js,
+with a focus on delivering high-quality, optimized, dynamic, and responsive web applications.
   </em>
   </p>
   </h3>
